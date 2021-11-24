@@ -1,0 +1,37 @@
+.estiloBotones{
+    
+    width: 50px;
+    height: 50px;
+    background:rgb(223, 217, 211);
+    font-size: 50px;
+    color: rgb(13, 116, 241);
+    text-align:center;
+    
+}
+body{
+    font-family: cursive;
+    margin: 50PX;
+    padding: 50PX;
+       
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    text-align: center;
+    
+  background-image: linear-gradient(#7B9F35, #226666);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+    
+}
+.tabla{
+    margin: auto;
+}
+h1{
+    font-size: 30px;
+    font-family: cursive;
+}
+p{
+    font-family: cursive;
+}
