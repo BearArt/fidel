@@ -2,7 +2,7 @@
     "name": "prueba juego puzzle",
     "short_name":"juego",
     "description":"probando sitio con el juego del puzzle",
-    "start_url":"./",
+    "start_url":"/",
     "orientation":"Portrait",
     "display":"standalone",
     "scope":"./",
