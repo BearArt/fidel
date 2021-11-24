@@ -4,7 +4,7 @@ self.addEventListener('install' , function(e) {
             return cache.addAll([
                 './',
                 './registro2SW.js',
-                "./apple-icon-144x144-seochecker-manifest-1024.jpg"
+                "./apple-icon-144x144-seochecker-manifest-2024.jpg"
             ]);
         })
     );
